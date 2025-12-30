@@ -1,3 +1,6 @@
+# Snez 16px Texture Pack
+## For Voxelibre
+
 Snez is a high-contrast non-realistic texture pack for Voxelibre, based on the LoSpec 500 palette, which you can find here: [LoSpec 500](https://lospec.com/palette-list/lospec500)
 
 ![Preview showing general building blocks](https://github.com/FrugalGamer/snez-texture-pack/blob/main/screenshots/generic%20blocks.png)
@@ -9,5 +12,11 @@ In general, the textures follow these conventions:
 * No color shifting for similar blocks (wood, stone, etc). This is done for maximum contrast and to make things easier for colorblind players.
 ** Note: Color-based tiles like wool and concrete do not fit this pattern, since they serve mainly aesthetic purposes.
 
-PSDs folder contains working PSD files with various complex blocks.
+# Instructions for use
+Download the /Snez/ directory and place it in your Luanti/Textures folder. You may delete the PSD and screenshots folders if you don't plan on modifying or contributing to the pack.
+
+# Miscellanious
+PSDs folder contains working PSD files with various complex blocks. This is for users who would like to contribute new textures or modify them for their own use.
+
 Screenshots contains screenshots of the blocks in game. Please note that some of these were taken early on and may be subject to change as the pack develops.
+
